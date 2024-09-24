@@ -2,7 +2,8 @@
 App desenvolvido para a consulta das previsões do tempo, clima e umidade nas cidades do pais e do mundo
  
 ## Layout
-![Captura de tela 2024-09-08 102436](https://github.com/user-attachments/assets/fca7190c-e4f5-4003-a130-917df587a091)
+![Captura de tela 2024-09-24 185321](https://github.com/user-attachments/assets/31001ea7-6ce8-4db2-a200-f7b6300c0193)
+
 
 ## Tecnologias Ultilizadas
 
