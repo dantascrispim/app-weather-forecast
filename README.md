@@ -27,7 +27,7 @@ Se deseja contribuir com melhorias ou corrigir possíveis problemas, sinta-se à
 Esse prejeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Para acessar o projeto click no link
-https://app-previsao-do-tempo-rho.vercel.app/
+https://app-weather-forecast-one.vercel.app/
 
 
 
